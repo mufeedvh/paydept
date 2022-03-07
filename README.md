@@ -8,6 +8,17 @@
 
 This utility traverses through your filesystem looking for open-source dependencies that are seeking donations by parsing `README.md` and `FUNDING.yml` files.
 
+## Usage
+
+Run under your entire working directories:
+
+    $ cd $HOME
+    $ paydept
+    
+Export the results to a CSV file:
+
+    $ paydept export
+
 ## Installation
 
 ```
@@ -44,17 +55,6 @@ $ cargo build --release
 ```
 
 The first command clones this repository into your local machine and the last two commands enters the directory and builds the source in release mode.
-
-## Usage
-
-Run under your entire working directories:
-
-    $ cd $HOME
-    $ paydept
-    
-Export the results to a CSV file:
-
-    $ paydept export
     
 ### Related Projects
 
