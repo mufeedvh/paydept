@@ -11,7 +11,7 @@ This utility traverses through your filesystem looking for open-source dependenc
 ## Installation
 
 ```
-$ curl -L https://github.com/mufeedvh/paydept/releases/download/v1.0.0/paydept_amd64 -o paydept
+$ curl -L https://github.com/mufeedvh/paydept/releases/download/v0.1.0/paydept_amd64 -o paydept
 ```
 
 (`Linux AMD x86-64`)
@@ -62,4 +62,4 @@ Export the results to a CSV file:
     
 ## License
 
-Licensed under the MIT License, see <a href="https://github.com/mufeedvh/pdfrip/blob/master/LICENSE">LICENSE</a> for more information.    
+Licensed under the MIT License, see <a href="https://github.com/mufeedvh/paydept/blob/master/LICENSE">LICENSE</a> for more information.    
