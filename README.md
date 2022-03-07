@@ -1,7 +1,7 @@
 <div align="center">
   <h2><code>paydept</code></h2>
   <h4>🙌 Shows every open-source dependency you use in your system that accept donations. 💝</h4>
-  <img src="https://user-images.githubusercontent.com/26198477/156766025-d2a6a16a-8fd6-4d6f-b37f-1f9bedcb7a7f.png" height="500" width="700">
+  <img src="https://user-images.githubusercontent.com/26198477/156766025-d2a6a16a-8fd6-4d6f-b37f-1f9bedcb7a7f.png">
 </div>
 
 ---
